@@ -2872,4 +2872,6 @@ pixiv.net#?#li[class*=" "]:-abp-has(a[href*="/artworks/"]):-abp-has(a[href$="use
 ! AI but no AI tag
 pixiv.net#?#li[class*=" "]:-abp-has(a[href*="/artworks/"]):-abp-has(a[href$="users/89599040"])
 pixiv.net#?#li[class*=" "]:-abp-has(a[href*="/artworks/"]):-abp-has(a[href$="users/107288395"])
+pixiv.net#?#li[class*=" "]:-abp-has(a[href*="/artworks/"]):-abp-has(a[href$="users/93126617"])
+pixiv.net#?#li[class*=" "]:-abp-has(a[href*="/artworks/"]):-abp-has(a[href$="users/107351908"])
 ! ---User ids END---
